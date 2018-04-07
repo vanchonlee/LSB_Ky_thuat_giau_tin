@@ -1,0 +1,9 @@
+C:\Users\vanch\Desktop\Pháp Lý Số\LSB\LSB\bin\Debug\LSB.exe.config
+C:\Users\vanch\Desktop\Pháp Lý Số\LSB\LSB\bin\Debug\LSB.exe
+C:\Users\vanch\Desktop\Pháp Lý Số\LSB\LSB\bin\Debug\LSB.pdb
+C:\Users\vanch\Desktop\Pháp Lý Số\LSB\LSB\obj\Debug\LSB.csprojResolveAssemblyReference.cache
+C:\Users\vanch\Desktop\Pháp Lý Số\LSB\LSB\obj\Debug\LSB.Form1.resources
+C:\Users\vanch\Desktop\Pháp Lý Số\LSB\LSB\obj\Debug\LSB.Properties.Resources.resources
+C:\Users\vanch\Desktop\Pháp Lý Số\LSB\LSB\obj\Debug\LSB.csproj.GenerateResource.Cache
+C:\Users\vanch\Desktop\Pháp Lý Số\LSB\LSB\obj\Debug\LSB.exe
+C:\Users\vanch\Desktop\Pháp Lý Số\LSB\LSB\obj\Debug\LSB.pdb
